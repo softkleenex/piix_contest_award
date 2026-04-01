@@ -4,7 +4,7 @@
 - **수상:** 대상
 - **증빙 자료:** [상장 (블라인드 처리됨)](./픽스콘테스트_대상(name_blinded).pdf)
 - **대회 홈페이지:** [PIIX Contest](https://piix.studio/contest?id=1)
-- **대회 설명:** [공식 노션 링크](https://www.notion.so/2026-32786836bc5780c5818dd2df71ce385d?source=copy_link)
+- **대회 설명:** [공식 노션 - 아카이빙](https://www.notion.so/2026-32786836bc5780c5818dd2df71ce385d?source=copy_link)
 
 ## 💡 작품 소개 (제품 설명)
 **마음의 날씨를 기록하는 구름 무드등**
